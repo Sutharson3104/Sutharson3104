@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="7.22" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Validating Facebook Page" name="Login Page Validation with invalid credentials - Example #1.1" time="7.09">
+<system-out><![CDATA[
+Given User is on login page.................................................passed
+When User enters "hello" and "3104".........................................passed
+And User clicks login page..................................................passed
+Then User verify the error message..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
